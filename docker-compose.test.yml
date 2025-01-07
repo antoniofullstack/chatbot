@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  test:
+    build:
+      context: .
+      target: test
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - PYTHONPATH=/app
+    command: ./run_tests.sh

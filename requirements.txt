@@ -1,0 +1,13 @@
+langchain
+langgraph
+streamlit
+python-dotenv
+groq
+chromadb
+langchain-groq
+langchain-community
+sentence-transformers
+langchain-huggingface
+langchain-chroma
+python-json-logger
+pydantic-settings

@@ -1,0 +1,41 @@
+# Arquivos de desenvolvimento
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.env.local
+.venv
+env/
+venv/
+ENV/
+
+# Arquivos de IDE e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arquivos de log
+*.log
+logs/
+log/
+
+# Arquivos temporários
+.DS_Store
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Arquivos de build
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Arquivos do Git
+.git
+.gitignore
